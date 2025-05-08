@@ -13,20 +13,20 @@ I'm equally passionate about project management and technical leadership, with a
 # 🛠️ Featured Projects
 ## 🧠 AI Chat Game
 A narrative-driven RPG featuring 36 AI characters across 12 game modes where players solve mysteries and build relationships through emotional choice trees.
-- **Technologies: **Python, React, OpenAI API
--** Contribution: **Architected narrative logic, implemented AI integrations, enhanced UX
+- ** Technologies: ** Python, React, OpenAI API
+- ** Contribution: ** Architected narrative logic, implemented AI integrations, enhanced UX
 GitHub
 
 ## 🌾 HarvestHopper
 A Swift-based platform connecting surplus farm produce to food desert communities to promote equitable food access.
-- **Technologies: **Swift, Firebase, MapKit
-- **Contribution:** Led UI development, implemented delivery tracking system
+- ** Technologies: ** Swift, Firebase, MapKit
+- ** Contribution:** Led UI development, implemented delivery tracking system
 GitHub
 
 ## 🌿 EcoQuest
 A gamified sustainability education app featuring interactive adventures with real-world impact.
-- **Technologies:** Swift, SwiftUI, MongoDB
-- **Contribution: **Developed core gameplay mechanics and location-based features
+- ** Technologies: ** Swift, SwiftUI, MongoDB
+- ** Contribution: ** Developed core gameplay mechanics and location-based features
 (Private repository)
 
 # 💻 Technical Toolkit
