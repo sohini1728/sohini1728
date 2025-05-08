@@ -14,8 +14,8 @@ I'm equally passionate about project management and technical leadership, with a
 ## 🧠 AI Chat Game
 A narrative-driven RPG featuring 36 AI characters across 12 game modes where players solve mysteries and build relationships through emotional choice trees.
 
-#Technologies: Python, React, OpenAI API
-#Contribution: Architected narrative logic, implemented AI integrations, enhanced UX
+# Technologies: Python, React, OpenAI API
+# Contribution: Architected narrative logic, implemented AI integrations, enhanced UX
 GitHub
 
 ## 🌾 HarvestHopper
@@ -29,7 +29,7 @@ GitHub
 A gamified sustainability education app featuring interactive adventures with real-world impact.
 
 # Technologies: Swift, SwiftUI, MongoDB
-#Contribution: Developed core gameplay mechanics and location-based features
+# Contribution: Developed core gameplay mechanics and location-based features
 (Private repository)
 
 # 💻 Technical Toolkit
