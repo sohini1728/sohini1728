@@ -41,7 +41,7 @@ I thrive in hackathon environments where rapid innovation meets collaborative pr
 
 # 📫 Connect With Me
 - 🔗 LinkedIn: [https://www.linkedin.com/in/sohinidas2/](url)
-- 📄 Resume: h[ttps://sohinidasresumelink.tiiny.site](url)
+- 📄 Resume: [https://sohinidasresumelink.tiiny.site](url)
 - 👩‍💻 School projects: [https://github.ncsu.edu/sdas25](url)
 
 
